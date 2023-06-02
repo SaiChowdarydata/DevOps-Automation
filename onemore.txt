@@ -1,0 +1,12 @@
+t Architecture
+Installation of GIT
+Basic commands
+ - git version
+ - git init
+ - git config
+ - git add
+ - git commit
+ - git status
+ - git log
+ - git show
+ - git restore
