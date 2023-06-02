@@ -1,0 +1,5 @@
+[cloudshell-user@ip-10-4-57-138 DevOps-Automation]$ ls -lrt
+total 8
+-rw-rw-r-- 1 cloudshell-user cloudshell-user 641 Jun  2 17:51 Some content
+-rw-rw-r-- 1 cloudshell-user cloudshell-user  57 Jun  2 17:51 README.md
+[cloudshell-user@ip-10-4-57-138 DevOps-Automation]$ 
