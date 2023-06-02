@@ -1,0 +1,18 @@
+: The branch is nothing but a logical folder/directory in git which allows us to store files/directories & commits.
+         Branches are very cheap which means we can easily create & delete a branch and also there is not much storage cost associated with branches.
+         Branches provide flexibility to segregate your work depending on the features.
+         
+
+eg :                             Tree(Git)
+           |                       |  (directory)                |
+        Branches                Branches                      Branches
+           |                        |                            |
+sub-branch  leaves fruits   sub-branch  leaves fruits    sub-branch(sub-dir)  leaves(files) fruits(images)
+
+eg : E-commerce website: 
+     * Login feature
+     * logout feature
+     * product catalog feature
+     * Acknowledgment feature
+     * payment feature
+bjkcjkn
