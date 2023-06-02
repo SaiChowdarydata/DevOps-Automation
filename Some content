@@ -1,0 +1,12 @@
+[root@ip-172-31-36-241 DevOps-Automation]# git rm fetch-checkout.txt
+rm 'fetch-checkout.txt'
+[root@ip-172-31-36-241 DevOps-Automation]# ls -lrt
+total 28
+-rw-r--r--. 1 root root   40 Apr 29 02:28 README.md
+-rw-r--r--. 1 root root 1047 Apr 29 02:28 login.txt
+-rw-r--r--. 1 root root  181 Apr 29 02:28 Demo.txt
+-rw-r--r--. 1 root root  177 Apr 29 02:28 Automation-script.txt
+-rw-r--r--. 1 root root  204 Apr 29 02:29 login-ssh.txt
+-rw-r--r--. 1 root root   34 Apr 29 02:31 login-ssh-pull.txt
+-rw-r--r--. 1 root root    1 Apr 29 02:50 fetch-files.txt
+[root@ip-172-31-36-241 DevOps-Automation]# git status
