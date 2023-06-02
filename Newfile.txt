@@ -1,0 +1,10 @@
+When you git clone, git fetch, gi
+t pull, or git push to a remote repository usin\
+g HTTPS URLs on the command line, Git will ask f
+or your GitHub username and password. When Git promp
+ts you for your password, enter your personal access 
+token. Alternatively, you can use a credential helpe
+r like Git Credential Manager. Password-based authent
+ication for Git has been rem
+oved in favor of more secure au
+thentication methods. For more information, see "Managing your personal access tokens."
